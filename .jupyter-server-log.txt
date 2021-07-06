@@ -152,3 +152,127 @@ TermSocket.open: Opened 2
 [W 16:34:23.533 NotebookApp] Kernel deleted before session
 [W 16:34:23.534 NotebookApp] 410 DELETE /user/townsend861-regex1-792gzi0o/api/sessions/bfbf9e70-3096-4bfe-a7ff-6e544ff2d6f5 (128.146.189.78) 2.700000ms referer=https://hub.gke2.mybinder.org/user/townsend861-regex1-792gzi0o/notebooks/Untitled.ipynb?kernel_name=python3
 [I 16:36:06.404 NotebookApp] Saving file at /binder/environement.yml
+[W 2021-07-06 15:14:32.119 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-06 15:14:32.119 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-06 15:14:32.120 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-06 15:14:32.120 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-06 15:14:32.120 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-06 15:14:32.120 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-06 15:14:32.120 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-06 15:14:32.120 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-06 15:14:32.120 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-06 15:14:32.120 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-06 15:14:32.120 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-06 15:14:32.120 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-07-06 15:14:32.138 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-07-06 15:14:32.138 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 15:14:32.149 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 15:14:32.151 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 15:14:32.152 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 15:14:32.152 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 15:14:32.152 NotebookApp] http://jupyter-townsend861-2dregex1-2dywmbevex:8888/user/townsend861-regex1-ywmbevex/?token=...
+[I 15:14:32.152 NotebookApp]  or http://127.0.0.1:8888/user/townsend861-regex1-ywmbevex/?token=...
+[I 15:14:32.152 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 15:14:32.157 NotebookApp] No web browser found: could not locate runnable browser.
+[I 15:14:33.189 NotebookApp] 302 GET /user/townsend861-regex1-ywmbevex/ (10.0.5.98) 0.940000ms
+[I 15:14:33.905 NotebookApp] 302 GET /user/townsend861-regex1-ywmbevex/?token=18qzLajjQYucQcexbwKBwQ (128.146.189.68) 1.130000ms
+[W 15:15:02.434 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 15:15:02.739 NotebookApp] Kernel started: 2c09e11c-58df-46b3-a5c6-06db3ca39cdf, name: python3
+[I 15:15:02.739 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 15:15:02.739 NotebookApp] Culling kernels even with connected clients
+[I 15:17:02.760 NotebookApp] Saving file at /Application_1_Python.ipynb
+[W 15:17:02.761 NotebookApp] Notebook Application_1_Python.ipynb is not trusted
+[I 15:19:02.766 NotebookApp] Saving file at /Application_1_Python.ipynb
+[W 15:19:02.766 NotebookApp] Notebook Application_1_Python.ipynb is not trusted
+[I 15:21:02.748 NotebookApp] Saving file at /Application_1_Python.ipynb
+[W 15:21:02.749 NotebookApp] Notebook Application_1_Python.ipynb is not trusted
+[I 15:23:02.775 NotebookApp] Saving file at /Application_1_Python.ipynb
+[W 15:23:02.776 NotebookApp] Notebook Application_1_Python.ipynb is not trusted
+[I 15:27:02.767 NotebookApp] Saving file at /Application_1_Python.ipynb
+[W 15:27:02.767 NotebookApp] Notebook Application_1_Python.ipynb is not trusted
+[I 15:29:03.165 NotebookApp] Saving file at /Application_1_Python.ipynb
+[W 15:29:03.166 NotebookApp] Notebook Application_1_Python.ipynb is not trusted
+[I 15:33:03.092 NotebookApp] Saving file at /Application_1_Python.ipynb
+[W 15:33:03.093 NotebookApp] Notebook Application_1_Python.ipynb is not trusted
+[I 15:37:03.238 NotebookApp] Saving file at /Application_1_Python.ipynb
+[W 15:37:03.238 NotebookApp] Notebook Application_1_Python.ipynb is not trusted
+[I 15:39:03.113 NotebookApp] Saving file at /Application_1_Python.ipynb
+[W 15:39:03.113 NotebookApp] Notebook Application_1_Python.ipynb is not trusted
+[I 15:41:02.771 NotebookApp] Saving file at /Application_1_Python.ipynb
+[I 15:42:43.089 NotebookApp] Starting buffering for 2c09e11c-58df-46b3-a5c6-06db3ca39cdf:6baa60594e7b4e8e84600bdbecd6c8e7
+[I 15:42:43.617 NotebookApp] Kernel restarted: 2c09e11c-58df-46b3-a5c6-06db3ca39cdf
+[I 15:42:43.714 NotebookApp] Restoring connection for 2c09e11c-58df-46b3-a5c6-06db3ca39cdf:6baa60594e7b4e8e84600bdbecd6c8e7
+[I 15:42:44.732 NotebookApp] Replaying 3 buffered messages
+[I 15:43:02.782 NotebookApp] Saving file at /Application_1_Python.ipynb
+[I 15:43:37.748 NotebookApp] Starting buffering for 2c09e11c-58df-46b3-a5c6-06db3ca39cdf:6baa60594e7b4e8e84600bdbecd6c8e7
+[I 15:43:38.168 NotebookApp] Kernel restarted: 2c09e11c-58df-46b3-a5c6-06db3ca39cdf
+[I 15:43:38.265 NotebookApp] Restoring connection for 2c09e11c-58df-46b3-a5c6-06db3ca39cdf:6baa60594e7b4e8e84600bdbecd6c8e7
+[I 15:43:38.990 NotebookApp] Replaying 3 buffered messages
+[I 15:45:03.100 NotebookApp] Saving file at /Application_1_Python.ipynb
+[I 15:47:03.107 NotebookApp] Saving file at /Application_1_Python.ipynb
+[I 15:49:03.123 NotebookApp] Saving file at /Application_1_Python.ipynb
+[I 15:51:02.775 NotebookApp] Saving file at /Application_1_Python.ipynb
+[I 15:53:02.793 NotebookApp] Saving file at /Application_1_Python.ipynb
+[I 15:55:02.799 NotebookApp] Saving file at /Application_1_Python.ipynb
+[I 15:57:02.796 NotebookApp] Saving file at /Application_1_Python.ipynb
+[I 15:58:23.875 NotebookApp] Creating new file in 
+[I 15:58:43.629 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 15:59:03.122 NotebookApp] Saving file at /Assignment 1_Python.ipynb
+[W 16:02:10.446 NotebookApp] Notebook Assignment 1_Python.ipynb is not trusted
+[I 16:02:51.240 NotebookApp] Creating new notebook in 
+[I 16:02:52.899 NotebookApp] Kernel started: f54020a8-d62d-4b00-8c54-d4d18348b125, name: python3
+[I 16:04:55.409 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:06:53.121 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:08:53.720 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:10:53.234 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:12:53.048 NotebookApp] Saving file at /Untitled.ipynb
+[W 16:13:02.741 NotebookApp] Culling 'idle' kernel 'python3' (2c09e11c-58df-46b3-a5c6-06db3ca39cdf) with 2 connections due to 651 seconds of inactivity.
+[I 16:13:02.742 NotebookApp] Kernel shutdown: 2c09e11c-58df-46b3-a5c6-06db3ca39cdf
+[W 16:13:03.667 NotebookApp] 410 DELETE /user/townsend861-regex1-ywmbevex/api/sessions/f1603e49-34d5-4022-9f76-9462c145b71f (128.146.189.68): Kernel deleted before session
+[W 16:13:03.667 NotebookApp] Kernel deleted before session
+[W 16:13:03.668 NotebookApp] 410 DELETE /user/townsend861-regex1-ywmbevex/api/sessions/f1603e49-34d5-4022-9f76-9462c145b71f (128.146.189.68) 3.010000ms referer=https://hub.gke2.mybinder.org/user/townsend861-regex1-ywmbevex/notebooks/Assignment%201_Python.ipynb
+[W 16:13:03.678 NotebookApp] 404 DELETE /user/townsend861-regex1-ywmbevex/api/sessions/f1603e49-34d5-4022-9f76-9462c145b71f (128.146.189.68): Session not found: session_id='f1603e49-34d5-4022-9f76-9462c145b71f'
+[W 16:13:03.679 NotebookApp] Session not found: session_id='f1603e49-34d5-4022-9f76-9462c145b71f'
+[W 16:13:03.680 NotebookApp] 404 DELETE /user/townsend861-regex1-ywmbevex/api/sessions/f1603e49-34d5-4022-9f76-9462c145b71f (128.146.189.68) 3.730000ms referer=https://hub.gke2.mybinder.org/user/townsend861-regex1-ywmbevex/notebooks/Assignment%201_Python.ipynb
+[I 16:14:52.919 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:16:52.910 NotebookApp] Saving file at /Untitled.ipynb
+[W 16:20:38.689 NotebookApp] 404 DELETE /user/townsend861-regex1-ywmbevex/api/sessions/f1603e49-34d5-4022-9f76-9462c145b71f (128.146.189.68): Session not found: session_id='f1603e49-34d5-4022-9f76-9462c145b71f'
+[W 16:20:38.689 NotebookApp] Session not found: session_id='f1603e49-34d5-4022-9f76-9462c145b71f'
+[W 16:20:38.689 NotebookApp] 404 DELETE /user/townsend861-regex1-ywmbevex/api/sessions/f1603e49-34d5-4022-9f76-9462c145b71f (128.146.189.68) 1.830000ms referer=https://hub.gke2.mybinder.org/user/townsend861-regex1-ywmbevex/notebooks/Assignment%201_Python.ipynb
+[I 16:20:38.743 NotebookApp] Kernel started: 63fe6fe9-ebb6-438c-b871-f421eae87e81, name: python3
+[W 16:27:02.741 NotebookApp] Culling 'idle' kernel 'python3' (f54020a8-d62d-4b00-8c54-d4d18348b125) with 1 connections due to 641 seconds of inactivity.
+[I 16:27:02.741 NotebookApp] Kernel shutdown: f54020a8-d62d-4b00-8c54-d4d18348b125
+[W 16:27:03.529 NotebookApp] 410 DELETE /user/townsend861-regex1-ywmbevex/api/sessions/115d325e-34f5-48c2-abb1-c368b1d08562 (128.146.189.68): Kernel deleted before session
+[W 16:27:03.530 NotebookApp] Kernel deleted before session
+[W 16:27:03.530 NotebookApp] 410 DELETE /user/townsend861-regex1-ywmbevex/api/sessions/115d325e-34f5-48c2-abb1-c368b1d08562 (128.146.189.68) 2.630000ms referer=https://hub.gke2.mybinder.org/user/townsend861-regex1-ywmbevex/notebooks/Untitled.ipynb?kernel_name=python3
+[W 16:29:25.635 NotebookApp] 404 DELETE /user/townsend861-regex1-ywmbevex/api/sessions/115d325e-34f5-48c2-abb1-c368b1d08562 (128.146.189.68): Session not found: session_id='115d325e-34f5-48c2-abb1-c368b1d08562'
+[W 16:29:25.636 NotebookApp] Session not found: session_id='115d325e-34f5-48c2-abb1-c368b1d08562'
+[W 16:29:25.636 NotebookApp] 404 DELETE /user/townsend861-regex1-ywmbevex/api/sessions/115d325e-34f5-48c2-abb1-c368b1d08562 (128.146.189.68) 2.100000ms referer=https://hub.gke2.mybinder.org/user/townsend861-regex1-ywmbevex/notebooks/Untitled.ipynb?kernel_name=python3
+[I 16:29:25.743 NotebookApp] Kernel started: e2c2a4c9-72a7-4640-8f1c-498f6e61052d, name: python3
+[W 16:29:53.690 NotebookApp] 404 DELETE /user/townsend861-regex1-ywmbevex/api/sessions/f1603e49-34d5-4022-9f76-9462c145b71f (128.146.189.68): Session not found: session_id='f1603e49-34d5-4022-9f76-9462c145b71f'
+[W 16:29:53.690 NotebookApp] Session not found: session_id='f1603e49-34d5-4022-9f76-9462c145b71f'
+[W 16:29:53.691 NotebookApp] 404 DELETE /user/townsend861-regex1-ywmbevex/api/sessions/f1603e49-34d5-4022-9f76-9462c145b71f (128.146.189.68) 2.260000ms referer=https://hub.gke2.mybinder.org/user/townsend861-regex1-ywmbevex/notebooks/Assignment%201_Python.ipynb
+[W 16:30:03.752 NotebookApp] Notebook Assignment 1_Python.ipynb is not trusted
+[I 16:30:53.142 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:36:53.255 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:38:52.933 NotebookApp] Saving file at /Untitled.ipynb
+[W 16:40:02.741 NotebookApp] Culling 'idle' kernel 'python3' (63fe6fe9-ebb6-438c-b871-f421eae87e81) with 2 connections due to 608 seconds of inactivity.
+[I 16:40:02.741 NotebookApp] Kernel shutdown: 63fe6fe9-ebb6-438c-b871-f421eae87e81
+[W 16:40:03.194 NotebookApp] 410 DELETE /user/townsend861-regex1-ywmbevex/api/sessions/2833ecc8-ab98-4fcf-bbf4-ffa83b76a95a (128.146.189.68): Kernel deleted before session
+[W 16:40:03.195 NotebookApp] Kernel deleted before session
+[W 16:40:03.195 NotebookApp] 410 DELETE /user/townsend861-regex1-ywmbevex/api/sessions/2833ecc8-ab98-4fcf-bbf4-ffa83b76a95a (128.146.189.68) 2.650000ms referer=https://hub.gke2.mybinder.org/user/townsend861-regex1-ywmbevex/notebooks/Assignment%201_Python.ipynb
+[W 16:40:03.198 NotebookApp] 404 DELETE /user/townsend861-regex1-ywmbevex/api/sessions/2833ecc8-ab98-4fcf-bbf4-ffa83b76a95a (128.146.189.68): Session not found: session_id='2833ecc8-ab98-4fcf-bbf4-ffa83b76a95a'
+[W 16:40:03.200 NotebookApp] Session not found: session_id='2833ecc8-ab98-4fcf-bbf4-ffa83b76a95a'
+[W 16:40:03.202 NotebookApp] 404 DELETE /user/townsend861-regex1-ywmbevex/api/sessions/2833ecc8-ab98-4fcf-bbf4-ffa83b76a95a (128.146.189.68) 7.070000ms referer=https://hub.gke2.mybinder.org/user/townsend861-regex1-ywmbevex/notebooks/Assignment%201_Python.ipynb
+[I 16:40:53.051 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:42:52.957 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:44:52.947 NotebookApp] Saving file at /Untitled.ipynb
+[W 16:45:50.782 NotebookApp] 404 DELETE /user/townsend861-regex1-ywmbevex/api/sessions/2833ecc8-ab98-4fcf-bbf4-ffa83b76a95a (128.146.189.68): Session not found: session_id='2833ecc8-ab98-4fcf-bbf4-ffa83b76a95a'
+[W 16:45:50.783 NotebookApp] Session not found: session_id='2833ecc8-ab98-4fcf-bbf4-ffa83b76a95a'
+[W 16:45:50.783 NotebookApp] 404 DELETE /user/townsend861-regex1-ywmbevex/api/sessions/2833ecc8-ab98-4fcf-bbf4-ffa83b76a95a (128.146.189.68) 1.640000ms referer=https://hub.gke2.mybinder.org/user/townsend861-regex1-ywmbevex/notebooks/Assignment%201_Python.ipynb
+[I 16:45:50.826 NotebookApp] Kernel started: e49eecdb-6a72-4975-b6da-4a82882bba82, name: python3
+[I 16:45:56.246 NotebookApp] New terminal with automatic name: 2
+TermSocket.open: 2
+TermSocket.open: Opened 2
